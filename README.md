@@ -16,21 +16,24 @@ As the **Founder & CEO of VECTORUX TECHNOLABS**, I specialize in full-stack deve
 
 ## 💼 Work Experience
 
-### 🚀 Chief Executive Officer (CEO) – VECTORUX TECHNOLABS  
-📍 Thalassery | 🗓 Aug 2022 – Present  
+### Fullstack Developer – TECHGRANDHA
+📍 Kakkanad,Eranakulam | 🗓 Feb 2026 – Present  
+- Develop and maintain educational web applications focused on kids' learning and technology education.
+- Work on web application development using modern frontend and backend technologies.
+- Contribute to the development of user-focused educational features and digital learning experiences.
+- Support the development and improvement of interactive digital learning solutions for educational use cases.
+
+
+###  Chief Executive Officer (CEO) – VECTORUX TECHNOLABS  
+📍 Thalassery | 🗓 Aug 2022 – Dec 2025 
 - Founded and scaled a software development agency delivering **web and mobile solutions**.  
 - Led project management, client communications, and technical development.  
 - Developed and deployed applications across industries.
 
-### 💻 MERN Stack Developer – BTRAC  
+###  MERN Stack Developer – BTRAC  
 📍 Kannur | 🗓 Nov 2023 – May 2024  
 - Built responsive MERN stack web applications.  
 - Integrated REST APIs and optimized UX/UI.  
-
-### 🎯 CEO – VyBha Technolabs  
-📍 Remote | 🗓 2025 – Present  
-- Spearheading a new venture for innovative software solutions.  
-- Overseeing tech strategy and mentorship.
 
 ---
 
