@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vyshnav K
 
 📍 Thalassery, Kannur, India  
-📞 +91 7025000141 | ✉️ vyshnavk891@gmail.com  
+📞 +91 7025000141 | ✉️ vyznavdeveloper@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vyshnav-k-270099192) | 🌐 [Portfolio](https://vyshnav-k.web.app/)
 
 ---
