@@ -2,7 +2,7 @@
 
 📍 Thalassery, Kannur, India  
 📞 +91 7025000141 | ✉️ vyshnavk891@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vyshnav-k-270099192) | 🌐 [www.vectorux.in](http://www.vectorux.in)
+🔗 [LinkedIn](https://linkedin.com/in/vyshnav-k-270099192) | 🌐 [www.vyshnav-k.web.app](http://www.vyshnav-k.web.app)
 
 ---
 
